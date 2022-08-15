@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace mes_tests
+{
+    public class Program
+    {
+        private static void Main(string[] args)
+        {
+            new write_read_txt();
+        }
+    }
+
+}
